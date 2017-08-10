@@ -1,4 +1,4 @@
-.. date: 2017-08-10 10:43:50 UTC
-.. link: https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee
+.. date: 2017-08-10 10:48:40 UTC
+.. link: https://medium.com/@byrnehobart/the-slow-motion-trainwreck-facing-the-meal-kit-industry-345f14df45ad
 
-   You should expect your team to tell you who they are actually creating something for. Who will directly benefit from the work. And a real life individual person they will consult with on questions and who can verify it meets their expectations, at least. If your team is working in a vacuum, it’s a sure sign they’re working on the wrong thing.
+   A meal-in-a-box REIT would be a sight to behold: it would rent warehouses outside of major cities, and then lease space in those warehouses to whichever meal-in-a-box service could pay the most. And since warehouse space is never the biggest cost for these services, but schlepping boxes around without spoiling food is their biggest headache, the REIT would have extreme pricing power.
