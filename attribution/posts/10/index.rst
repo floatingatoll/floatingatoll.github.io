@@ -1,4 +1,4 @@
-.. date: 2017-08-10 10:42:25 UTC
-.. link: https://wordpress.lensrentals.com/blog/2017/07/why-were-going-to-start-testing-cinema-lenses-and-why-we-havent-before/
+.. date: 2017-08-10 10:43:50 UTC
+.. link: https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee
 
-   Here are the same nine lenses but this time, shown at 30 lp/mm. At this higher frequency, it’s apparent the lenses are not all identical, although all are acceptable. But on a couple, the very edge is getting unacceptably soft (red areas) and in one (upper right) the center isn’t quite as sharp as the others.
+   You should expect your team to tell you who they are actually creating something for. Who will directly benefit from the work. And a real life individual person they will consult with on questions and who can verify it meets their expectations, at least. If your team is working in a vacuum, it’s a sure sign they’re working on the wrong thing.
