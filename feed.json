@@ -1,0 +1,12 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format. To add this feed to your reader, copy the following URL — https://floatingatoll.github.io/attribution/feed.json — and add it your reader.",
+    "title": "Attribution Required",
+    "home_page_url": "https://floatingatoll.github.io/attribution/",
+    "feed_url": "https://floatingatoll.github.io/attribution/feed.json",
+    "description": ".",
+    "author": {
+        "name": "Richard Soderberg"
+    },
+    "items": []
+}
