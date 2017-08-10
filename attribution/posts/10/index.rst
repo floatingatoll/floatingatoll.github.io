@@ -1,4 +1,4 @@
-.. date: 2017-08-10 10:41:35 UTC
-.. link: http://blackflag.jalopnik.com/how-the-best-racing-cheat-of-all-time-worked-1792828060
+.. date: 2017-08-10 10:42:25 UTC
+.. link: https://wordpress.lensrentals.com/blog/2017/07/why-were-going-to-start-testing-cinema-lenses-and-why-we-havent-before/
 
-   The brilliant part of Toyota’s cheaty turbo was that when the part was removed and inspected, it appeared to be a completely normal, rules-compliant turbo with a restrictor plate.
+   Here are the same nine lenses but this time, shown at 30 lp/mm. At this higher frequency, it’s apparent the lenses are not all identical, although all are acceptable. But on a couple, the very edge is getting unacceptably soft (red areas) and in one (upper right) the center isn’t quite as sharp as the others.
