@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://floatingatoll.github.io/attribution/posts/3/",
+            "url": "/posts/3/",
+            "title": "3",
+            "date_published": "2017-08-10T09:16:10+00:00",
+            "author": {
+                "name": "Richard Soderberg",
+                "url": "/authors/richard-soderberg/"
+            },
+            "tags": [],
+            "external_url": "https://www.popehat.com/2017/08/09/we-interrupt-this-grand-jury-lawsplainer-for-a-search-warrant-lawsplainer/",
+            "content_html": "<blockquote>\nEven the best-trained and most responsible federal agents — and I mean this with the utmost respect — tend to act like coked-up raccoons when you turn them loose with a search warrant. They seize stuff haphazardly, based on very odd internal definitions of what \"evidence\" is.</blockquote>"
+        },
+        {
             "id": "https://floatingatoll.github.io/attribution/posts/2/",
             "url": "/posts/2/",
             "title": "2",
