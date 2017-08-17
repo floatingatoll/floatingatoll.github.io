@@ -1,4 +1,4 @@
-.. date: 2017-08-17 06:50:27 UTC
-.. link: http://cen.acs.org/articles/95/web/2017/08/Magic-mushroomenzyme-mystery-solved.html
+.. date: 2017-08-17 06:51:14 UTC
+.. link: http://www.telegraph.co.uk/science/2017/08/10/diet-drinks-food-actually-trigger-weight-gain-diabetes-says/
 
-   This process includes a newly discovered enzyme that decarboxylates tryptophan, an enzyme that adds a hydroxyl group, an enzyme that catalyzes phosphorylation, and an enzyme that mediates two sequential amine methylation steps. With that knowledge in hand, the team designed a one-pot reaction using three of the enzymes to prepare psilocybin from 4-hydroxy-L-tryptophan.
+   They found when there was a ‘mismatch’ between sweetness and calories - as is often the case with diet drinks or foods because they are not as sugary - the calories fail to trigger the body’s metabolism. Reward circuits in the brain also did not register that calories had been consumed, which could lead to eating more.
