@@ -1,4 +1,4 @@
-.. date: 2017-08-10 10:48:40 UTC
-.. link: https://medium.com/@byrnehobart/the-slow-motion-trainwreck-facing-the-meal-kit-industry-345f14df45ad
+.. date: 2017-08-17 06:47:58 UTC
+.. link: http://www.arl.org/news/community-updates/4264-louisiana-state-university-sues-elsevier-for-breach-of-contract
 
-   A meal-in-a-box REIT would be a sight to behold: it would rent warehouses outside of major cities, and then lease space in those warehouses to whichever meal-in-a-box service could pay the most. And since warehouse space is never the biggest cost for these services, but schlepping boxes around without spoiling food is their biggest headache, the REIT would have extreme pricing power.
+   Since Elsevier is headquartered in the Netherlands, LSU is attempting to effect service of process through the Hague Service Convention.
