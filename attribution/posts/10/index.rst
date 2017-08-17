@@ -1,4 +1,4 @@
-.. date: 2017-08-17 06:48:50 UTC
-.. link: https://arstechnica.com/?p=1147863
+.. date: 2017-08-17 06:49:31 UTC
+.. link: http://www.fortressofsolitude.co.za/silent-track-reaches-top-100-itunes/
 
-   Under the right conditions, the silk itself helps amplify a laser's power, to the point where it can either cut the silk in specific locations, or soften it to the point where it can be bent or welded. The work relies on a physics effect termed "nonlinear multiphoton interactions."
+   For most of these users, there’s a really good chance that they’ve had to bear the same song automatically playing every time their device is plugged in. Rezhami’s song, then, is somewhat of a quick fix for this issue.
