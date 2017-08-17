@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://floatingatoll.github.io/attribution/posts/16/",
+            "url": "/posts/16/",
+            "title": "16",
+            "date_published": "2017-08-17T07:01:21+00:00",
+            "author": {
+                "name": "Richard Soderberg",
+                "url": "/authors/richard-soderberg/"
+            },
+            "tags": [],
+            "external_url": "http://cen.acs.org/articles/95/web/2017/08/Magic-mushroomenzyme-mystery-solved.html",
+            "content_html": "<blockquote>\nThis process includes a newly discovered enzyme that decarboxylates tryptophan, an enzyme that adds a hydroxyl group, an enzyme that catalyzes phosphorylation, and an enzyme that mediates two sequential amine methylation steps. With that knowledge in hand, the team designed a one-pot reaction using three of the enzymes to prepare psilocybin from 4-hydroxy-L-tryptophan.</blockquote>"
+        },
+        {
             "id": "https://floatingatoll.github.io/attribution/posts/15/",
             "url": "/posts/15/",
             "title": "15",
@@ -126,19 +139,6 @@
             "tags": [],
             "external_url": "http://www.apa.org/monitor/nov05/music.aspx",
             "content_html": "<blockquote>\nShoppers who had made an unplanned purchase spent, on average, $32.89 more when music was playing than those in the control condition. When a scent was present, they spent about $8.66 less. Contemplative buyers spent about $1.00 less than usual when music played, but in the presence of the citrus smell, they spent $5.71 more than usual.</blockquote>"
-        },
-        {
-            "id": "https://floatingatoll.github.io/attribution/posts/6/",
-            "url": "/posts/6/",
-            "title": "6",
-            "date_published": "2017-08-10T10:04:00+00:00",
-            "author": {
-                "name": "Richard Soderberg",
-                "url": "/authors/richard-soderberg/"
-            },
-            "tags": [],
-            "external_url": "https://blog.mozilla.org/opendesign/zilla-slab-common-language-shared-font/",
-            "content_html": "<blockquote>\nIt’s amazing how many people will ask if they can stop coming to meetings when you talk through 10 different ‘a’ options.</blockquote>"
         }
     ]
 }
