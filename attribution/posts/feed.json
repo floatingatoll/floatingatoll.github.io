@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://floatingatoll.github.io/attribution/posts/19/",
+            "url": "/posts/19/",
+            "title": "19",
+            "date_published": "2017-08-17T19:16:13+00:00",
+            "author": {
+                "name": "Richard Soderberg",
+                "url": "/authors/richard-soderberg/"
+            },
+            "tags": [],
+            "external_url": "https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html",
+            "content_html": "<blockquote>\nThis optimization is able to produce very accurate estimations of the watermark components already from hundreds of images, and can deal with most watermarks used in practice, including ones containing thin structures, shadows or color gradients (as long as the watermarks are semi-transparent).</blockquote>"
+        },
+        {
             "id": "https://floatingatoll.github.io/attribution/posts/18/",
             "url": "/posts/18/",
             "title": "18",
@@ -125,19 +138,6 @@
             "tags": [],
             "external_url": "http://www.sfgate.com/bayarea/article/viral-Craigslist-ad-couple-personal-assistant-11748522.php",
             "content_html": "<blockquote>\n\"Unfortunately, none of the hate mail had any helpful criticism,\" the couple told Farivar. \"It was all along the lines of 'I'm too good for that job at that price' or 'you should get a wife' or 'you are terrible people.' I think all reflective of either jealousy, sexism or entitlement.\"</blockquote>"
-        },
-        {
-            "id": "https://floatingatoll.github.io/attribution/posts/9/",
-            "url": "/posts/9/",
-            "title": "9",
-            "date_published": "2017-08-10T10:25:40+00:00",
-            "author": {
-                "name": "Richard Soderberg",
-                "url": "/authors/richard-soderberg/"
-            },
-            "tags": [],
-            "external_url": "https://quarterly.camposanto.com/baldurs-gender-76dbdb4ba17e",
-            "content_html": "<blockquote>\nSo, in the Baldur’s Gate pocket of the D&amp;D world, if you are so unimportant in the grand design that your highest purpose is to be one of 30 anonymous villagers wiped off the map by a fireball, then that is your gender.</blockquote>"
         }
     ]
 }
