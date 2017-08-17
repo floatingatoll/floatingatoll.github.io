@@ -1,4 +1,4 @@
-.. date: 2017-08-17 06:51:14 UTC
-.. link: http://www.telegraph.co.uk/science/2017/08/10/diet-drinks-food-actually-trigger-weight-gain-diabetes-says/
+.. date: 2017-08-17 06:51:47 UTC
+.. link: http://www.sfgate.com/bayarea/article/viral-Craigslist-ad-couple-personal-assistant-11748522.php
 
-   They found when there was a ‘mismatch’ between sweetness and calories - as is often the case with diet drinks or foods because they are not as sugary - the calories fail to trigger the body’s metabolism. Reward circuits in the brain also did not register that calories had been consumed, which could lead to eating more.
+   "Unfortunately, none of the hate mail had any helpful criticism," the couple told Farivar. "It was all along the lines of 'I'm too good for that job at that price' or 'you should get a wife' or 'you are terrible people.' I think all reflective of either jealousy, sexism or entitlement."
