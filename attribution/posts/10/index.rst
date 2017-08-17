@@ -1,4 +1,4 @@
-.. date: 2017-08-17 06:49:57 UTC
-.. link: https://voices.nationalgeographic.org/2013/01/24/dung-beetles-navigate-via-the-milky-way-an-animal-kingdom-first/
+.. date: 2017-08-17 06:50:27 UTC
+.. link: http://cen.acs.org/articles/95/web/2017/08/Magic-mushroomenzyme-mystery-solved.html
 
-   This beetle, which is wearing a clear hat, acted as a control in one experiment.
+   This process includes a newly discovered enzyme that decarboxylates tryptophan, an enzyme that adds a hydroxyl group, an enzyme that catalyzes phosphorylation, and an enzyme that mediates two sequential amine methylation steps. With that knowledge in hand, the team designed a one-pot reaction using three of the enzymes to prepare psilocybin from 4-hydroxy-L-tryptophan.
