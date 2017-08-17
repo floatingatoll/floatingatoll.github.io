@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://floatingatoll.github.io/attribution/posts/13/",
+            "url": "/posts/13/",
+            "title": "13",
+            "date_published": "2017-08-17T07:00:19+00:00",
+            "author": {
+                "name": "Richard Soderberg",
+                "url": "/authors/richard-soderberg/"
+            },
+            "tags": [],
+            "external_url": "https://arstechnica.com/?p=1147863",
+            "content_html": "<blockquote>\nUnder the right conditions, the silk itself helps amplify a laser's power, to the point where it can either cut the silk in specific locations, or soften it to the point where it can be bent or welded. The work relies on a physics effect termed \"nonlinear multiphoton interactions.\"</blockquote>"
+        },
+        {
             "id": "https://floatingatoll.github.io/attribution/posts/12/",
             "url": "/posts/12/",
             "title": "12",
@@ -21,7 +34,7 @@
             },
             "tags": [],
             "external_url": "https://www.washingtonpost.com/news/innovations/wp/2017/08/16/see-the-hipsters-lined-up-outside-that-new-restaurant-this-app-pays-them-to-stand-there/",
-            "content_html": "<blockquote>\n\"Caroline Thompson, 27, a contributing writer for Vice, said she downloaded Surkus and attended an event last year at a Chicago club full of “finance bros” on a Thursday night. “It was a little weird that probably 80 percent of the women at the club were there because of the app,” she said.\"</blockquote>"
+            "content_html": "<blockquote>\nCaroline Thompson, 27, a contributing writer for Vice, said she downloaded Surkus and attended an event last year at a Chicago club full of “finance bros” on a Thursday night. “It was a little weird that probably 80 percent of the women at the club were there because of the app,” she said.</blockquote>"
         },
         {
             "id": "https://floatingatoll.github.io/attribution/posts/11/",
@@ -34,7 +47,7 @@
             },
             "tags": [],
             "external_url": "http://www.arl.org/news/community-updates/4264-louisiana-state-university-sues-elsevier-for-breach-of-contract",
-            "content_html": "<blockquote>\n\"Since Elsevier is headquartered in the Netherlands, LSU is attempting to effect service of process through the Hague Service Convention.\"</blockquote>"
+            "content_html": "<blockquote>\nSince Elsevier is headquartered in the Netherlands, LSU is attempting to effect service of process through the Hague Service Convention.</blockquote>"
         },
         {
             "id": "https://floatingatoll.github.io/attribution/posts/10/",
@@ -126,19 +139,6 @@
             "tags": [],
             "external_url": "http://www.nbcwashington.com/news/local/Driver-Dressed-Like-a-Seat-Spotted-Inside-Driverless-Van-439041863.html",
             "content_html": "<blockquote>\nAfter multiple inquiries by News4, the Virginia Tech Transportation Institute said Monday afternoon that the van and van driver are part of a study they are conducting on driverless cars. The worker was wearing the uniform he was supposed to wear.</blockquote>"
-        },
-        {
-            "id": "https://floatingatoll.github.io/attribution/posts/3/",
-            "url": "/posts/3/",
-            "title": "3",
-            "date_published": "2017-08-10T09:16:10+00:00",
-            "author": {
-                "name": "Richard Soderberg",
-                "url": "/authors/richard-soderberg/"
-            },
-            "tags": [],
-            "external_url": "https://www.popehat.com/2017/08/09/we-interrupt-this-grand-jury-lawsplainer-for-a-search-warrant-lawsplainer/",
-            "content_html": "<blockquote>\nEven the best-trained and most responsible federal agents — and I mean this with the utmost respect — tend to act like coked-up raccoons when you turn them loose with a search warrant. They seize stuff haphazardly, based on very odd internal definitions of what \"evidence\" is.</blockquote>"
         }
     ]
 }
