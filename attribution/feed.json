@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://floatingatoll.github.io/attribution/posts/20/",
+            "url": "/posts/20/",
+            "title": "20",
+            "date_published": "2017-08-21T22:29:24+00:00",
+            "author": {
+                "name": "Richard Soderberg",
+                "url": "/authors/richard-soderberg/"
+            },
+            "tags": [],
+            "external_url": "https://www.gq.com/story/dylann-roof-making-of-an-american-terrorist",
+            "content_html": "<blockquote>\nTo this day, Roof's friends seem to have a striking inability to process the gravity of what he did. They have said things like: “He would talk about killing people, but none of us took him seriously.”</blockquote>"
+        },
+        {
             "id": "https://floatingatoll.github.io/attribution/posts/19/",
             "url": "/posts/19/",
             "title": "19",
@@ -125,19 +138,6 @@
             "tags": [],
             "external_url": "http://www.arl.org/news/community-updates/4264-louisiana-state-university-sues-elsevier-for-breach-of-contract",
             "content_html": "<blockquote>\nSince Elsevier is headquartered in the Netherlands, LSU is attempting to effect service of process through the Hague Service Convention.</blockquote>"
-        },
-        {
-            "id": "https://floatingatoll.github.io/attribution/posts/10/",
-            "url": "/posts/10/",
-            "title": "10",
-            "date_published": "2017-08-17T06:51:47+00:00",
-            "author": {
-                "name": "Richard Soderberg",
-                "url": "/authors/richard-soderberg/"
-            },
-            "tags": [],
-            "external_url": "http://www.sfgate.com/bayarea/article/viral-Craigslist-ad-couple-personal-assistant-11748522.php",
-            "content_html": "<blockquote>\n\"Unfortunately, none of the hate mail had any helpful criticism,\" the couple told Farivar. \"It was all along the lines of 'I'm too good for that job at that price' or 'you should get a wife' or 'you are terrible people.' I think all reflective of either jealousy, sexism or entitlement.\"</blockquote>"
         }
     ]
 }
